@@ -1,13 +1,13 @@
 # Yes-We-Kanban
 ## ✅ Setup
-- [ ] **Download & unzip the starter code**
-- [ ] **Create a new GitHub repository** and push the starter code
+- [ x] **Download & unzip the starter code**
+- [ x] **Create a new GitHub repository** and push the starter code
 
 ## ✅ Backend (Server)
-- [ ] **Create a `.env` file in the `server` directory` with:**
-  - [ ] `DB_USERNAME=<your_database_username>`
-  - [ ] `DB_PASSWORD=<your_database_password>`
-  - [ ] `JWT_SECRET=<your_random_secret_key>`
+- [ x] **Create a `.env` file in the `server` directory` with:**
+  - [ x] `DB_USERNAME=<your_database_username>`
+  - [ x] `DB_PASSWORD=<your_database_password>`
+  - [ x] `JWT_SECRET=<your_random_secret_key>`
 - [ ] **Complete `authenticateToken` method** in `server/src/middleware/auth.ts`
 - [ ] **Complete `login` method** in `server/src/routes/auth-routes.ts`
 - [ ] **Add authentication middleware** to API routes in `server/src/routes/index.ts`
